@@ -41,7 +41,7 @@ gem install budler
 After installing bundler, choose the folder where you want to download the project and run:
 
 ```git
-git clone https://github.com/gdealmeida1885/
+git clone https://github.com/gdealmeida1885/ENJOEI_QA_CHALLENGE
 
 ```
 Navigate to the folder that you downloaded and install the dependencies:
