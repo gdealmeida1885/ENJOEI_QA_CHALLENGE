@@ -1,3 +1,4 @@
+![Enjoei Logo](./readme_pictures/enjoei_banner.png)
 # Enjoei QA Tech Challenge
 ---
 
@@ -53,7 +54,7 @@ bundle install
 Once the dependecies are installed sucessfully, run the command below to start the testing:
 
 ```ruby
-cucumber --format html -o features\reports\report.html
+cucumber --format html -o features/reports/report.html
 ```
 
 When the test execution have finished, you wil find the execution report on the Reports folder.
